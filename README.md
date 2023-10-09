@@ -35,4 +35,5 @@ Type:\
 Replace YOUR_USERNAME, REPO_NAME, BRANCH_NAME, and DESCRIPTION OF CHANGES with appropriate values.
 
 # Code of Conduct
-do whatever you want
+Our code of conduct allows anyone to make edits, but will not tolerate any forms of bullying.(More in Code of conduct file)
+
